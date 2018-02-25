@@ -22,5 +22,7 @@
 Ссылка на форму для её прохождения: https://docs.google.com/forms/d/e/1FAIpQLSeycgPnxtV97wl6Y2Va39r-JkkMK3UQo9qzxynfgaiEiD-P1g/viewform
 
 Ссылка на таблицу: https://docs.google.com/spreadsheets/d/1lu12_vHplh62pAy2jy7oz-zYKRAQwbd5pcvU1_xTzAA/edit#gid=1109888949
+
 P.S. Таблица была отсортирована по столбцу "Возраст".
+
 P.P.S. Исходные в бонусном задании были заменены на более подходящие.
